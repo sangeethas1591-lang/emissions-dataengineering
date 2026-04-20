@@ -21,6 +21,7 @@ Visualization: Databricks AI/BI & Power BI
 Core Libraries: pyspark.sql.functions, pandas, matplotlib
 
 🏗️ Data Engineering Pipeline
+
 Ingestion (Bronze): Raw CSV ingestion of the 2023 Emissions Dataset, preserving original schema for traceability.
 
 Transformation (Silver): Executed schema enforcement and data type casting (e.g., handling string-to-numeric conversions for "Expenditures in Millions").
